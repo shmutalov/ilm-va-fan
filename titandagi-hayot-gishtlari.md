@@ -16,3 +16,6 @@ _Science Advances_ jurnalida bosib chiqarilgan [maqolada](http://advances.scienc
 
 _Go'yoki, Yer tashqari hayot, yana bir qadam haqiqatga yaqinroq bo'ldi._
 
+Asl maqola: [_https://naked-science.ru/article/sci/v-atmosfere-titana-obnaruzheny_](https://naked-science.ru/article/sci/v-atmosfere-titana-obnaruzheny)
+
+Tarjimon: _Mutalov Sherzod_
