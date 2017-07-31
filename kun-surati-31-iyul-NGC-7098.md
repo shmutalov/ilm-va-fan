@@ -1,6 +1,6 @@
 # Kun sur'ati - 31-iyul
 
-Yerponaning janubiy observatoriya ekspertlari Yerdan 95 mln yorug'lik yili uzoqligida joylashgan NGC 7098 galaktikasining sur'atini taqdim etishdi.
+Yevropaning janubiy observatoriya ekspertlari Yerdan 95 mln yorug'lik yili uzoqligida joylashgan NGC 7098 galaktikasining sur'atini taqdim etishdi.
 
 ![NGC 7098](https://naked-science.ru/sites/default/files/styles/full_size/public/field/image/spow_july28_05.jpg?itok=OUnbwxcd)
 
