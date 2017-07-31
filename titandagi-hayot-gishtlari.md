@@ -14,5 +14,5 @@ O'sha paytgacha Titanda akrilonitril (vinilsianid, C₂H₃CN) hosil bo'lishi uc
 
 _Science Advances_ jurnalida bosib chiqarilgan [maqolada](http://advances.sciencemag.org/content/3/7/e1700022) Morin Palmer va uning hammualliflari Titanda akrilonitril mavjudligini tasdiqlashmoqda. Eng yuqori konsentratsiya atmosferaning yuqori qatlamlarida, 200 kmdan ziyod balandlikda, kuzatildi. Tahmin bo'yicha molekulalar sintezi nurlanish ostida sodir bo'ladi. Lekin ertami kechmi molekulalar pastga tushib, metan dengizlarni to'ldiradilar. Olimlarning hisobi bo'yicha, Ligeiya dengizida har bir kub santimetrda 30 mlnga yaqin "azotosom"lar hosil bo'lishi uchun akrilonitril konsentratsiyasi yetarli darajada. 
 
-_Go'yoki, Yer tashqari hayot, , yana bir qadam haqiqatga yaqinroq bo'ldi._
+_Go'yoki, Yer tashqari hayot, yana bir qadam haqiqatga yaqinroq bo'ldi._
 
