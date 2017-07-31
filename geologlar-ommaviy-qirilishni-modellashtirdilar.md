@@ -18,7 +18,7 @@ Olimlar yer qobig'idagi magmatik tog' jinslarining kristallashishi tufayli hosil
 
 Atmosferaning karbonat angidrid gazi bilan to'yinishini muntazamlik bilan Buyuk qirilish sababi deb ataydilar. Ko'p hollarda buni vulkanlar otilishi bilan [bog'laydilar](https://naked-science.ru/article/sci/uchenye-vyyasnili-pochemu-proi).
 
-Tadqiqot _Nature Communications_ jurnalida [bosib chiqarildi](http://www.nature.com/articles/s41467-017-00083-9).
+Tadqiqot _Nature Communications_ jurnalida [chop etildi](http://www.nature.com/articles/s41467-017-00083-9).
 
 Ilgariroq xalqaro geologlar gruppasi eng birinchi ommaviy qirilishga vulkanlar aktivligi sabab bo'lgan degan [to'xtamga](https://naked-science.ru/article/sci/geologi-nazvali-prichinu-pervogo) kelishdilar.
 
