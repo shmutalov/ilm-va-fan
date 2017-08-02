@@ -1,10 +1,10 @@
 # Olimlar Yerda mavjud bo'lgan ilk gullarning ko'rinishini aniqlashtirdilar
 
-Botaniklar zamonaviy o'simliklar gullarini taqqoslab, sayyoramizda yuzlab million yil oldin birinchi gulni ochgan ularning uzoq ajdodi qanday ko'rinishda bo'lganini aniqlashtirdilar.
+Botaniklar zamonaviy o'simliklar gullarini taqqoslab, sayyoramizda yuzlab million yil oldin birinchi gulni ochgan uzoq ajdodi qanday ko'rinishda bo'lganini aniqlashtirdilar.
 
 ![](https://naked-science.ru/sites/default/files/styles/full_size/public/field/image/flower0.jpeg?itok=7V8prucC)
 
-Gulli o'simliklarning keliib chiqishi va ularning dunyo bo'ylab shiddatli tarqalishi Darvinni ham qiziqtirgan:  hamma narsa shunchalik tez sodir bo'lganki, ular hayotining birinchi qadamlari portlashga o'xshaydi. Ular 250 va 140 mln yil avval orasida paydo bo'lgan deb hisoblanib, ulardan oldin paydo bo'lgan (250-310 mln yil avval) ochiq urug'lilarni tezda siqib chiqarlar va sayyorada uzoq vaqt davomida ustunlikka ega bo'lishga. Bugun har 10 ta o'simlikdan to'qqiztasi yopiq urug'lilardir (gulli o'simliklar), ularning xilma-xilligi 300 mingdan ortiq turlar bilan baholanadi. Bu xilma-xillik birgina yagona ajdoddan tarqalgan deb tasavvur qilish qiyin.
+Gulli o'simliklarning kelib chiqishi va ularning dunyo bo'ylab shiddatli tarqalishi Darvinni ham qiziqtirgan:  hamma narsa shunchalik tez sodir bo'lganki, ular hayotining birinchi qadamlari portlashga o'xshaydi. Ular 250 va 140 mln yil avval orasida paydo bo'lgan deb hisoblanib, ulardan oldin paydo bo'lgan (250-310 mln yil avval) ochiq urug'lilarni tezda siqib chiqarganlar va sayyorada uzoq vaqt davomida ustunlikka ega bo'lishgan. Bugun har 10 ta o'simlikdan to'qqiztasi yopiq urug'lilardir (gulli o'simliklar), ularning xilma-xilligi 300 mingdan ortiq turlar bilan baholanadi. Bu xilma-xillik birgina yagona ajdoddan tarqalgan deb tasavvur qilish qiyin.
 
 Biroq gulli o'simliklarning evolyutsion tarixini anglash qiyinchiliklarni tug'diradi. Ularning boshqa o'simliklardan ajratib turuvchi asosiy tomoni bu ularning o'zidan so'ng "toshqotma solnomasi"ni amalda qoldirmaydigan, juda nafis to'qimalardan shakllangan gul - jinsiy urchish organidir. Hozirgi kunda bizgacha yetib kelgan eng qadimiy topilma bu bir necha yil oldin Ispaniyada [topilgan](http://www.pnas.org/content/112/35/10985) va yoshi tahminan 130 mln yil deb sanalgan, qirilib ketgan _Montsechia vidalii_ suv o'simligining guli hisoblanadi.
 
